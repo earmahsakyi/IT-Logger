@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": "5a5e",
+      "message": " network card in server 007 is fixed",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2025-03-27T16:42:44.445Z"
+    },
+    {
+      "id": "4a92",
+      "message": "Fixed Hard Drive in workstation 002",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2025-03-27T13:45:15.334Z"
+    },
+    {
+      "id": "0cea",
+      "message": "1122 wireless down ",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2025-03-27T13:52:18.699Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": "1",
+      "firstname": "John",
+      "lastname": "Doe"
+    },
+    {
+      "id": "2",
+      "firstname": "Sam",
+      "lastname": "Smith"
+    },
+    {
+      "id": "3",
+      "firstname": "Sara",
+      "lastname": "Wilson"
+    }
+  ]
+}
