@@ -26,6 +26,10 @@ A simple and efficient IT incident logging application built with **React**, **R
 - React Moment
 - Materialize CSS
 
+🧑‍💻 Author
+Emmanuel Armah Sakyi
+GitHub | LinkedIn
+
 ### Backend
 - JSON Server (REST mock API)
 - Concurrent development with `concurrently`
